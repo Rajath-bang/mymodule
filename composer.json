@@ -13,5 +13,6 @@
     "autoload": {
         "psr-4": {"firstModule\\": "src/"}
     },
-    "require": {}
+    "require": {},
+    "version": "0.0.1"
 }
